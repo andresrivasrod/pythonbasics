@@ -1,0 +1,2 @@
+<h1>Introduction</h1>
+En esta introduccion veremos lo que son los string, int y boolean. Para ello imprimiremos un mensaje que contiene un string, dos valores int, y uno de esos int variara dependiendo de un boolean. 
